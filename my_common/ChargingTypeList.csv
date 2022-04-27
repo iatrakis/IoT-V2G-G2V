@@ -1,0 +1,9 @@
+﻿Charger_Type,Charger_Power(kW),category
+Regular electricity socket 13A,3,level 1
+Single phase 16A,3.7,level 1
+Single phase 32A,7.4,level 2
+3 phase-16A per phase,11,level 2
+3 phase-32A per phase,22,level 2
+3 phase-60A per phase,43,level 3
+3 phase-DC,50,level 3
+3 phase-DC,120,level 3
