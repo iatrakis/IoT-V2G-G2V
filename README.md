@@ -19,16 +19,16 @@ Our framework enables the testing of various schemes in simulation mode, and can
 
 You can access all interim data and results by subscribing to the respective MQTT topics and by creating csv files.
 An example python script is given in [data_collector.py](./data_collector.py).
-***Please change username and password to your platform credentials. ***
+***Please change username and password to your platform credentials.***
 
 ## Agent interactions to reserve a charging slot
-![Message Flow](./figures/EV_charging_updated_large.pdf)
+![Message Flow](./figures/EV_charging_updated_large.jpg)
 
 ## Inter agent protocol for receiving charging recomendations
-![CR Inter agent](./figures/CP1.pdf)
+![CR Inter agent](./figures/CP1.jpg)
 
 ## EV Intra agent protocol
-![EV Intra agent](./figures/EV.pdf)
+![EV Intra agent](./figures/EV.jpg)
 
 ## Number of messages vs number of participating EVs for 10 days period
-![Messages](./figures/messages.pdf)
+![Messages](./figures/messages.jpg)
