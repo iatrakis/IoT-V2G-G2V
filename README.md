@@ -7,6 +7,11 @@ direct applicability in real-world settings, as well as advanced analytics capab
 
 Our framework enables the testing of various schemes in simulation mode, and can also be used as the basis for the implementation of real-world prototypes for the delivery of  large-scale V2G/G2V services.
 
+The dataset used for the evaluation can be found [here](https://github.com/iatrakis/IoT-V2G-G2V/tree/main/my_common).
+
+## Related publication
+Charilaos Akasiadis, Georgios Iatrakis, Nikolaos Spanoudakis, Georgios Chalkiadakis "An Open MAS/IoT-based Architecture for Large-scale V2G/G2V", in Proceedings of 20th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS'22), L'Aquila Italy, 13th-15th July, 2022 (accepted, to appear).
+
 ## Execution Instructions
 
 1. Request access and deploy a local instance of the [SYNAISTHISI platform](http://iot.synaisthisi.iit.demokritos.gr).
